@@ -1,0 +1,74 @@
+[
+  {
+	"location":"mansarovar",
+    "device_id": "iot1",
+    "temperature_info": {
+      "temperature1": 37.2,
+      "temperature2": 29.31,
+      "temperature3": 25.6,
+      "temperature4": 26.96,
+      "temperature5": 24.69
+    },
+	"humidity_info": {
+      "humidity1": 10,
+      "humidity2": 20,
+      "humidity3": 30,
+      "humidity4": 40,
+      "humidity5": 50
+    }
+  },
+  {
+	"location":"malviyanagar",
+    "device_id": "iot2",
+    "temperature_info": {
+      "temperature1": 17.2,
+      "temperature2": 11.31,
+      "temperature3": 15.6,
+      "temperature4": 12.96,
+      "temperature5": 14.69
+    },
+	"humidity_info": {
+      "humidity1": 10,
+      "humidity2": 20,
+      "humidity3": 30,
+      "humidity4": 40,
+      "humidity5": 50
+    }
+  },
+  {
+	"location":"jagatpura",
+    "device_id": "iot3",
+    "temperature_info": {
+      "temperature1": 17.2,
+      "temperature2": 10.31,
+      "temperature3": 25.6,
+      "temperature4": 13.96,
+      "temperature5": 18.69
+    },
+	"humidity_info": {
+      "humidity1": 10,
+      "humidity2": 20,
+      "humidity3": 30,
+      "humidity4": 40,
+      "humidity5": 50
+    }
+  },
+  {
+	"location":"riico",
+    "device_id": "iot4",
+    "temperature_info": {
+      "temperature1": 27.2,
+      "temperature2": 8.31,
+      "temperature3": 6.6,
+      "temperature4": 7.96,
+      "temperature5": 15.69
+    },
+	"humidity_info": {
+      "humidity1": 10,
+      "humidity2": 20,
+      "humidity3": 30,
+      "humidity4": 40,
+      "humidity5": 50
+    }
+  }
+]
