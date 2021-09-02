@@ -4,3 +4,10 @@ Assume that you are developing an application for Smart Farming using IoT device
 <br>
 1. Develop a python application to store and process the temperature and humidity data in AWS DynamoDB.<br>
 2. Analyse the data and suggest the system to switch on the sprinkler of the respective field if the average temperature value for the day is &gt; 25 Degrees.
+
+## References
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html
+
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.html
+
+https://www.section.io/engineering-education/python-boto3-and-amazon-dynamodb-programming-tutorial/
