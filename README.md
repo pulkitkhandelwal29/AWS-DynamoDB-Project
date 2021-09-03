@@ -11,3 +11,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.D
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.html
 
 https://www.section.io/engineering-education/python-boto3-and-amazon-dynamodb-programming-tutorial/
+
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
